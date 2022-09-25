@@ -1,14 +1,14 @@
 # ManMetHacks-2.0
-This project aims to conduct sentiment analysis of daily news using python. It was developed during the hackathon ManMetHacks-2.0.
+This project aims to conduct sentiment analysis of daily news using python. It was developed during the hackathon ManMetHacks-2.0 in January 2020.
 
 Authors: Ivan Baeza and Juan del Aguila.
 
 Instructions
 ------------------------------
 To run the program:
-- Place all the files in the same folder
-- Execute the Main file.
-- Necessary libraries: requests, newspaper
+- Clone the repo.
+- Run `python3 Main.py`.
+- Necessary Python libraries: requests, newspaper.
 
 To use the program:
 - We recomend the website: https://www.ccn.com/ to try the progam quickly.
