@@ -1,6 +1,6 @@
 # ManMetHacks-2.0
-Sentiment analysis of daily news using python
-By Ivan Baeza and Juan del Aguila
+This project aims to conduct sentiment analysis of daily news using python. It was developed during the hackathon ManMetHacks-2.0.
+Authors: Ivan Baeza and Juan del Aguila.
 
 Instructions
 ------------------------------
