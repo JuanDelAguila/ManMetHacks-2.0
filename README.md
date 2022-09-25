@@ -1,5 +1,6 @@
 # ManMetHacks-2.0
 This project aims to conduct sentiment analysis of daily news using python. It was developed during the hackathon ManMetHacks-2.0.
+
 Authors: Ivan Baeza and Juan del Aguila.
 
 Instructions
@@ -20,7 +21,7 @@ Understanding the program:
 
 Summary
 ---------------------------------
-This project aims to develop a program that lets the user know the daily facts quicker than a manual check. The user will be asked to introduce the URL of the newspaper of your choice. Once introduced, the program will scan every headline and tell the user which of the Fortune 500 companies are mentioned the most. The user would then proceed to point out which company he is most interested in. The program would then ask which of the headlines in which the company is mentioned the user is most interested in.
+This project aims to develop a program that lets the user know the daily facts quicker than a manual check. The user will be asked to introduce the URL of the newspaper of your choice. Once introduced, the program will scan every headline and tell the user which of the Fortune 500 companies are mentioned the most. The user would then proceed to point out which company they are most interested in. The program would then ask which of the headlines in which the company is mentioned the user is most interested in.
 
 Once selected the article, then the main purpose of the programe would come to use. The program will analyze the article, and compare the words appearing in the article with a database which gives the main words of the alphabet a number between -5 and 5 depending on the positive or negative feeling attached to that word. By comparing to this database the program will give the article a score representing how positive or negative the article feels about that company, as well as a selection of the 3 sentences with the most positive and negative feelings attached so that the user can see the highlights of the article in a quick manner.
 
